@@ -35,7 +35,7 @@ Recursos opcionais de consulta recomendados para alunos com dificuldade em assim
 * Criar conta no github ou gitlab ou bitbucket ou qualquer outro repositório de código GIT. 
 
 ### PHP 
-- 1 [XAMPP SERVER](https://www.apachefriends.org/pt_br/download.html)
+- 1 [XAMPP SERVER](https://www.apachefriends.org/pt_br/download.html) Instalar qualquer versão com PHP igual ou superior a 7.x.x. 
 - 2 [WAMP SERVER](https://sourceforge.net/projects/wampserver/) para o caso do item 1 dar problema na hora de inicializar. 
 - 3 [EASYPHP](https://www.easyphp.org/) para o caso do item 1 ou 2 falharem. 
 - ```Precisamos ter um server com capacidade de processar PHP)```
