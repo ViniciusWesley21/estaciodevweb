@@ -4,10 +4,10 @@ Repositório da disciplina DESENVOLVIMENTO WEB EM HTML5, CSS, JAVASCRIPT E PHP -
 
 Olá, seja bem vindo a mais um curso com o professor Rodrigo Fujioka. 
 
-* Meu linkedin: [@rodrigofujioka](https://www.linkedin.com/in/rodrigofujioka/)
 * Meu site: http://www.rodrigofujioka.com/web
 * Meu instagram: [@rodrigofujioka](https://www.instagram.com/rodrigofujioka) 
 * Meu facebook: [@rodrigofujioka](https://www.facebook.com/rodrigofujioka)
+
 
 ## Cursos recomendados
 
@@ -27,7 +27,7 @@ Recursos opcionais de consulta recomendados para alunos com dificuldade em assim
 
 ## Preparação do ambiente
 
-* Configurar o ambiente PHP, na ordem informada. 
+* Configurar o ambiente PHP, na ordem informada o mais breve possível. 
 
 ### GIT 
 
@@ -47,9 +47,7 @@ Recursos opcionais de consulta recomendados para alunos com dificuldade em assim
 * Pode ser utilizada qualquer outra ferramenta, no entanto, dúvidas sobre 
 utilização apenas sobre as IDE's informadas.  
 
-
 ## OBRIGATÓRIO
-
 
 1.5.2 - Instruções para o projeto são informadas em sala de aula, deve existir outro arquivo .MD com as 
 instruções descritivas para sua turma. 
