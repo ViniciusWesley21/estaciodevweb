@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>Exercício 01</title>
+</head>
+<body>
+    <div class="container">
+        <h2>Calcular Aumento</h2>
+    <form action="calcularemprestimo.php" method="GET">
+
+        <div class="form-group">
+          <label for="nome">Nome Funcionário</label>
+          <input type="text" name="nome" class="form-control" id="percentual" aria-describedby="nomeSmall" placeholder="Nome do Funcionário">
+          <small id="nomeSmall" class="form-text text-muted">Informar o nome.</small>
+        </div>
+        <div class="form-group">
+          <label for="salario">Salário</label>
+          <input type="number" name="salario" class="form-control" id="salario" aria-describedby="salarioSmall" placeholder="Informar salário">
+          <small id="salarioSmall" class="form-text text-muted">Informar salário.</small>
+        </div>
+        <div class="form-group">
+          <label for="prestacao">Valor Prestação</label>
+          <input type="number" name="prestacao" class="form-control" id="prestacao" aria-describedby="prestacaoSmall" placeholder="Prestação">
+          <small id="prestacaoSmall" class="form-text text-muted">Prestação.</small>
+        </div>
+        <button type="submit" class="btn btn-primary">Verificar empréstimo</button>
+      </form>
+</div>
+</body>
+</html>
